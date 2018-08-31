@@ -1,0 +1,10 @@
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe.config
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\bin\Debug\ImageResizer.pdb
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\bin\Debug\ImageProcessor.dll
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\bin\Debug\ImageProcessor.xml
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csprojAssemblyReference.cache
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csproj.CoreCompileInputs.cache
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csproj.CopyComplete
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\obj\Debug\ImageResizer.exe
+D:\Project\ExtraUtilitys\ImageResizer\ImageResizer\obj\Debug\ImageResizer.pdb
